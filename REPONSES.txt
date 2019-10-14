@@ -1,0 +1,11 @@
+moko guedem
+
+
+sysout et ctrl + espace nous avons  System.out.println();
+tsStr aucune proposition 
+main et ctrl + espace affiche une liste de proposition
+
+get et ctrl +espace liste de prosition sur le champ toto
+set et ctrl +espace liste de proposition 
+alt shift r press enter to refractor
+sur toto c'est pareil
