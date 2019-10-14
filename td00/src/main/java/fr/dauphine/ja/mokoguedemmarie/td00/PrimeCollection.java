@@ -60,7 +60,7 @@ public class PrimeCollection
 	  {
         System.out.println( "Hello World!" );
       PrimeCollection p =new PrimeCollection();
-      p.initRandom(15, 1000);
+      p.initRandom(1000, 2000);
       //p.printPrime();
       PrimeCollection.isPrime(10);
       
